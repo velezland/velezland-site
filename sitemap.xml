@@ -1,16 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <url>
-    <loc>https://velezland.ru/</loc>
-  </url>
+  <url><loc>https://velezland.ru/</loc></url>
 
-  <url>
-    <loc>https://velezland.ru/03_memories/reminiscence.html</loc>
-    <loc>https://velezland.ru/01_settlements/settlments.html</loc>
-    <loc>https://velezland.ru/02_history/history.html</loc>
-    <loc>https://velezland.ru/04_amazing/amazing.html</loc>
-  
-  </url>
+  <url><loc>https://velezland.ru/01_settlements/settlments.html</loc></url>
+  <url><loc>https://velezland.ru/01_settlements/baltic_way/baltic_way.html</loc></url>
+  <url><loc>https://velezland.ru/01_settlements/chirkovitsy/chirkov.html</loc></url>
+  <url><loc>https://velezland.ru/01_settlements/elisavetino/elisavetino.html</loc></url>
+  <url><loc>https://velezland.ru/01_settlements/gubanitsy/gubanitsy.html</loc></url>
+  <url><loc>https://velezland.ru/01_settlements/karenina/anna.html</loc></url>
+  <url><loc>https://velezland.ru/01_settlements/kempolovo/kempolovo.html</loc></url>
+  <url><loc>https://velezland.ru/01_settlements/klopitsy/klop.html</loc></url>
+  <url><loc>https://velezland.ru/01_settlements/rekkovo/rekkovo.html</loc></url>
+  <url><loc>https://velezland.ru/01_settlements/terpilitzy/terpily.html</loc></url>
+  <url><loc>https://velezland.ru/01_settlements/volgovo/volgovo.html</loc></url>
+
+  <url><loc>https://velezland.ru/02_history/history.html</loc></url>
+  <url><loc>https://velezland.ru/02_history/01_pre-christian_period/pre-christian.html</loc></url>
+  <url><loc>https://velezland.ru/02_history/02_pre-petrine_period/pre-petrine.html</loc></url>
+  <url><loc>https://velezland.ru/02_history/empire_part/russian_empire.html</loc></url>
+
+  <url><loc>https://velezland.ru/02_history/04_from_1917_to_1941/pre-war.html</loc></url>
+  <url><loc>https://velezland.ru/02_history/04_from_1917_to_1941/wrang.html</loc></url>
+  <url><loc>https://velezland.ru/02_history/04_from_1917_to_1941/memo_pre-war/memo_pre-war.html</loc></url>
+
+  <url><loc>https://velezland.ru/02_history/05_world_war_ii/ww_ii.html</loc></url>
+  <url><loc>https://velezland.ru/02_history/05_world_war_ii/occupation/occupation.html</loc></url>
+  <url><loc>https://velezland.ru/02_history/05_world_war_ii/occupation/ivanovskoe_luga_line/ivanovskoe.html</loc></url>
+  <url><loc>https://velezland.ru/02_history/05_world_war_ii/occupation/sabsk_luga_line/sabsk.html</loc></url>
+  <url><loc>https://velezland.ru/02_history/05_world_war_ii/occupation/vruda_august_1941/vruda.html</loc></url>
+
+  <url><loc>https://velezland.ru/02_history/05_world_war_ii/release/osvobozhdenie.html</loc></url>
+  <url><loc>https://velezland.ru/02_history/05_world_war_ii/release/partisanen/partizan.html</loc></url>
+  <url><loc>https://velezland.ru/02_history/05_world_war_ii/release/tank_battle/tank_battle.html</loc></url>
+  <url><loc>https://velezland.ru/02_history/05_world_war_ii/release/tank_battle/memories.html</loc></url>
+  <url><loc>https://velezland.ru/02_history/05_world_war_ii/release/volosovo_bombing/bombezhki.html</loc></url>
+
+  <url><loc>https://velezland.ru/02_history/06_soviet_years/sovetico.html</loc></url>
+  <url><loc>https://velezland.ru/02_history/06_soviet_years/memories.html</loc></url>
+
+  <url><loc>https://velezland.ru/02_history/07_nashe_vremia/today.html</loc></url>
+  <url><loc>https://velezland.ru/02_history/07_nashe_vremia/spectator.html</loc></url>
+
+  <url><loc>https://velezland.ru/03_memories/reminiscence.html</loc></url>
+  <url><loc>https://velezland.ru/03_memories/adamovna.html</loc></url>
+  <url><loc>https://velezland.ru/03_memories/ladoga.html</loc></url>
+  <url><loc>https://velezland.ru/03_memories/olkhovo.html</loc></url>
+  <url><loc>https://velezland.ru/03_memories/specialist.html</loc></url>
+  <url><loc>https://velezland.ru/03_memories/textbook.html</loc></url>
+
+  <url><loc>https://velezland.ru/04_amazing/amazing.html</loc></url>
+  <url><loc>https://velezland.ru/04_amazing/forgotten_obelisk/fogotten_obelisk.html</loc></url>
+  <url><loc>https://velezland.ru/04_amazing/kalozhitsy_holy_spring/holy_spring.html</loc></url>
+  <url><loc>https://velezland.ru/04_amazing/mushroomer/mushroomer.html</loc></url>
+  <url><loc>https://velezland.ru/04_amazing/raskulitsy/raskulitsy.html</loc></url>
+  <url><loc>https://velezland.ru/04_amazing/rudiment/rudiment.html</loc></url>
+  <url><loc>https://velezland.ru/04_amazing/search_for_treasure/treasure_hunters.html</loc></url>
+  <url><loc>https://velezland.ru/04_amazing/self-ignition/ignition.html</loc></url>
+  <url><loc>https://velezland.ru/04_amazing/strangely/strangely.html</loc></url>
+
+  <url><loc>https://velezland.ru/contacts/contacts.html</loc></url>
 
 </urlset>
