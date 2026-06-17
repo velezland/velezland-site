@@ -202,3 +202,11 @@ footer{
     }
 }
 
+.columns {
+    display: flex;
+}
+
+.column {
+    flex: 1; /* одинаковая ширина столбцов */
+}
+
