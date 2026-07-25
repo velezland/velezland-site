@@ -209,4 +209,12 @@ footer{
 .column {
     flex: 1; /* одинаковая ширина столбцов */
 }
-
+.vpn-note{
+    display:block;
+    text-align:center;
+    font-size:0.65em;
+    color:#f5f1f1;
+    line-height:1;
+    margin-top:-1px;
+    opacity:.85;
+}
