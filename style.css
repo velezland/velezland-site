@@ -104,9 +104,10 @@ nav .menu a.active{
     margin: 0 20px 10px 0;
 }
 
-.img-center{
+.img-center {
     text-align: center;
     margin: 25px 0;
+    clear: both;
 }
 
 img{
@@ -222,3 +223,11 @@ footer{
     text-align: right;
 }
 
+.img-center {
+    text-align: center;
+}
+
+.img-center .caption {
+    text-align: center;
+    width: 100%;
+}
