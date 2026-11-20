@@ -228,8 +228,10 @@ footer{
 }
 
 .img-center .caption {
-    text-align: center;
-    width: 100%;
+    text-align: left;
+    width: fit-content;
+    margin: 0 auto;
+}
 }
 pre {
     font-family: inherit;
